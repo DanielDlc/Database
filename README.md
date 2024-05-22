@@ -10,42 +10,6 @@
 
 ## 💡 Introduction to Database
 
-This is an open-source introduction to SQL guide that will help you to learn the basics of SQL and start using relational databases for your SysOps, DevOps, and Dev projects. No matter if you are a DevOps/SysOps engineer, developer, or just a Linux enthusiast, you will most likely have to use SQL at some point in your career.
-
-The guide is suitable for anyone working as a developer, system administrator, or a DevOps engineer and wants to learn the basics of SQL.
-
-## 🚀 Download
-
-To download a copy of the ebook use one of the following links:
-
-* [Dark mode](https://github.com/bobbyiliev/introduction-to-sql/raw/main/ebook/en/export/introduction-to-sql-dark.pdf)
-
-* [Light mode](https://github.com/bobbyiliev/introduction-to-sql/raw/main/ebook/en/export/introduction-to-sql-light.pdf)
-
-## 📘 Chapters
-
-* [**About the book**](ebook/en/content/000-introduction.md)
-* [**Databases**](ebook/en/content/001-databases.md)
-* [**MySQL**](ebook/en/content/002-install-mysql.md)
-* [**Tables**](ebook/en/content/003-creating-tables.md)
-* [**Basic Syntax**](ebook/en/content/004-basic-syntax.md)
-* [**SELECT**](ebook/en/content/005-select.md)
-* [**WHERE**](ebook/en/content/006-where.md)
-* [**ORDER and GROUP BY**](ebook/en/content/007-order-and-group-by.md)
-* [**INSERT**](ebook/en/content/008-insert.md)
-* [**UPDATE**](ebook/en/content/009-update.md)
-* [**DELETE**](ebook/en/content/010-delete.md)
-* [**JOIN**](ebook/en/content/011-join.md)
-* [**SQL Command Categories**](ebook/en/content/012-sql-commnad-categories.md)
-* [**Sub Queries**](ebook/en/content/013-sub-queries.md)
-* [**Unions**](ebook/en/content/014-unions.md)
-* [**The MySQL dump command**](ebook/en/content/100-mysqldump.md)
-* [**Conclusion**](ebook/en/content/999-conclusion.md)
-
-## 🌟 Sponsors
-
-Thanks to these fantastic companies that made this book possible!
-
 ### 📊 Materialize
 
 The Streaming Database for Real-time Analytics.
@@ -60,11 +24,9 @@ It provides highly available, secure, and scalable compute, storage, and network
 
 Founded in 2012 with offices in New York and Cambridge, MA, DigitalOcean offers transparent and affordable pricing, an elegant user interface, and one of the largest libraries of open source resources available.
 
-For more information, please visit [https://www.digitalocean.com](https://www.digitalocean.com) or follow [@digitalocean](https://twitter.com/digitalocean) on Twitter.
-
 If you are new to DigitalOcean, you can get a free $100 credit and spin up your own servers via this referral link provided below:
 
-[Free $100 Credit For DigitalOcean](https://m.do.co/c/2a9bba940f39)
+[Linkedln](https://www.linkedin.com/in/daniel-louro-costa-dev/)
 
 ### 👩‍💻 DevDojo
 
