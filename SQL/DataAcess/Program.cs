@@ -1,4 +1,6 @@
 ﻿using System;
+using Dapper;
+using DataAcess.Models;
 using Microsoft.Data.SqlClient;
 
 namespace DataAcess
@@ -9,23 +11,12 @@ namespace DataAcess
         {
             const string connectionString = "Server=localhost,1433;Database=balta;User Id=sa;Password=1q2w3e4r@#$;TrustServerCertificate=true";
 
-
             using (var connection = new SqlConnection(connectionString))
             {
-                Console.WriteLine("Connect");
-                connection.Open();
-
-                using (var command = new SqlCommand())
+                var categories = connection.Query<Category>("SELECT [Id], [Title] FROM [Category]");
+                foreach (var category in categories)
                 {
-                    command.Connection = connection;
-                    command.CommandType = System.Data.CommandType.Text;
-                    command.CommandText = "SELECT [Id], [Title] FROM [Category]";
-
-                    var reader = command.ExecuteReader();
-                    while (reader.Read())
-                    {
-
-                    }
+                    Console.WriteLine($"{category.Id} - {category.Title}");
                 }
             }
 
