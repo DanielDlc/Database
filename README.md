@@ -1,13 +1,3 @@
-<div align="center">
-    <p>
-	    <a name="stars"><img src="https://img.shields.io/github/stars/bobbyiliev/introduction-to-sql?style=for-the-badge"></a>
-	    <a name="forks"><img src="https://img.shields.io/github/forks/bobbyiliev/introduction-to-sql?logoColor=green&style=for-the-badge"></a>
-	    <a name="contributions"><img src="https://img.shields.io/github/contributors/bobbyiliev/introduction-to-sql?logoColor=green&style=for-the-badge"></a>
-	    <a name="madeWith"><img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge"></a>
-	    <a name="license"><img src="https://img.shields.io/github/license/bobbyiliev/introduction-to-sql?style=for-the-badge"></a>
-    </p>
-</div>
-
 ## 💡 Introduction to Database
 
 ### 📊 Materialize
